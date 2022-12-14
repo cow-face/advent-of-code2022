@@ -1,8 +1,8 @@
-#include <iostream>
 //Advent of Code Day 3 Part 1
 //Caden Unnasch
 //12/14/22
 
+#include <iostream>
 #include <string>
 #include <fstream>
 #include <sstream>

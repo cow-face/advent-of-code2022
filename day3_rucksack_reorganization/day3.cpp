@@ -5,7 +5,6 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include <sstream>
 
 int char_to_priority(char input) {
 	if (input >= 97 && input <= 122) {
